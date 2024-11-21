@@ -126,6 +126,3 @@ Possible extensions to this project:
 
 - **Data Source**: Kaggle’s Walmart Sales Dataset
 - **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
-
----
->>>>>>> 5fb6f7f (first)
